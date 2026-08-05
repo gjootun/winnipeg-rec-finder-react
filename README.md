@@ -1,4 +1,4 @@
-# Winnipeg Rec Finder '- React
+# Winnipeg Rec Finder - React
 
 A React + TypeScript rebuild of the Winnipeg Rec Finder, converting the original vanilla JavaScript/AJAX version into a component-based front end. Powered by the City of Winnipeg's public Open Data API.
 
